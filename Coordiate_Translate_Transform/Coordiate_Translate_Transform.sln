@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coordiate_Translate_Transform", "Coordiate_Translate_Transform\Coordiate_Translate_Transform.csproj", "{290C09B4-935D-4257-931E-3488CFEA808F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{290C09B4-935D-4257-931E-3488CFEA808F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{290C09B4-935D-4257-931E-3488CFEA808F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{290C09B4-935D-4257-931E-3488CFEA808F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{290C09B4-935D-4257-931E-3488CFEA808F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
